@@ -1,1 +1,1 @@
-# northwind_db
+# northwind-sql-queries
